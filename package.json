@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "3box": "^1.13.1",
+    "@toruslabs/torus-embed": "^0.2.3",
+    "bitski-node": "^0.7.1",
+    "bnc-onboard": "^1.1.10",
+    "bnc-sdk": "^1.0.3",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "sturdy-websocket": "^0.2.1",
+    "test-onboard": "0.0.2",
+    "web3": "^1.2.4",
+    "ws": "^7.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
